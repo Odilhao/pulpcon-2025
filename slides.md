@@ -44,8 +44,8 @@ Major releases for Katello
 
 - Repository: [theforeman/pulpcore-packaging/tree/rpm/3.85](https://github.com/theforeman/pulpcore-packaging/tree/rpm/3.85)
 - Continuous improvement of our tooling and packages used by Pulp
-- **Built with Konflux** - Secure supply chain approach
-- Stable foundation for container builds
+- Containers will be **Built with Konflux**
+- Goood foundation for container builds
 
 </v-clicks>
 
