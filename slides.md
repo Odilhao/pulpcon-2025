@@ -374,7 +374,7 @@ Roadmap for Pulp containers
 
 <div v-click>
 
-## Short Term (2025 Q1-Q2)
+## Short Term (2026 Q1-Q2)
 
 1. Complete Konflux setup for Nightly and 3.85
 2. Automate nightly builds with auto-release
