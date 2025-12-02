@@ -34,7 +34,7 @@ Major releases for Katello
 
 ## Pulpcore 3.73 - First Rebuild of 2025
 
-- **Python 3.12 Migration** - Modern Python runtime
+- **Python 3.12 Migration** - Same version as EL10
 - Released early 2025
 - Repository: [theforeman/pulpcore-packaging/tree/rpm/3.73](https://github.com/theforeman/pulpcore-packaging/tree/rpm/3.73)
 - All plugins rebuilt and tested
